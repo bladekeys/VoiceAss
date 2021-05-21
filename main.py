@@ -112,13 +112,6 @@ def recognize_cmd(zadanie):
 				RC['percent'] = vrt
 	return RC
 
-
-
-
-
-
-
-
 def execute_cmd(cmd):
 	global startTime
 	if cmd == 'ctime':
